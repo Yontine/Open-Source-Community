@@ -22,7 +22,3 @@ logging:
     #??????
 aliyun:
   oss:
-    endpoint: https://oss-cn-shanghai.aliyuncs.com
-    accessKeyId: LTAI5t9R1UphqqHaSNpwxsMH
-    accessKeySecret: mXkn2bSucU6HJ8eMcvXnaZFCcgLnbK
-    bucketName: project-yontineo
